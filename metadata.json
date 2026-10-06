@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "All-in-one student habit changer, task manager, focus timer, stopwatch, clock, alarm, study tracker, routine builder, and hydration reminder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
